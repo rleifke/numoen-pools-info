@@ -1,8 +1,6 @@
-## Uniswap Info V3
+## Numoen Analytics 
 
-An open sourced interface for Uniswap V3 analytics. 
-
-Info URL: https://info.uniswap.org/#/
+Inspired by the open sourced interface for Uniswap V3 built By Guillaume Lambert.
 
 ## Development
 
